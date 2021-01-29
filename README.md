@@ -4,4 +4,5 @@ A simple program that would pop a notfication about your battery Status on runni
 ## Commands to run
 
 pip install psutil
+
 pip install plyer
