@@ -6,7 +6,7 @@ A simple program that would pop a notfication about your battery Status on runni
  ``` bash
     $ pip install psutil
     $ pip install plyer
-    ```
+    
 
 
 
