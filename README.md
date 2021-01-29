@@ -1,8 +1,12 @@
 # Desktop-Battery-Notifier
 A simple program that would pop a notfication about your battery Status on running
 
-## Commands to run
+## Commands to run for installing libraries
 
-pip install psutil
+ ``` bash
+    $ pip install psutil
+    $ pip install plyer
+    ```
 
-pip install plyer
+
+
